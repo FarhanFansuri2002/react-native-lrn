@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "React Native Learning",
+    "slug": "react-native-learning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
